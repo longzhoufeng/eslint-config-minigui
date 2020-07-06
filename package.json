@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-minigui",
+  "version": "1.0.0",
+  "description": "ESLint Config for minigui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longzhoufeng/eslint-config-minigui.git"
+  },
+  "keywords": [
+    "eslint",
+    "minigui"
+  ],
+  "author": "longzhoufeng@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/longzhoufeng/eslint-config-minigui/issues"
+  },
+  "homepage": "https://github.com/longzhoufeng/eslint-config-minigui#readme"
+}
